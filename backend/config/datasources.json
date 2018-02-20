@@ -1,0 +1,10 @@
+{
+    "magblog": {
+        "connector": "mongodb",
+        "host": "localhost",
+        "port": 27017,
+        "database": "magblog",
+        "username": "",
+        "password": ""
+    }
+}
